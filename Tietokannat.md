@@ -1,6 +1,6 @@
 # Viikko 1 Relaatiotietokannan peruskäsitteiden harjoitukset
 
-![kuvankaappaus](eka_viikko_kaikki_tehty.png)
+![kuvankaappaus](ekanviikonteht_tehty.png)
 
 # Viikko2
 
