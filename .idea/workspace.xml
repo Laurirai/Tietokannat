@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b79778ae-28da-4a7f-9a40-db9a3594c2a4" name="Changes" comment="Tietokannat harjoitukset 1-2">
+    <list default="true" id="b79778ae-28da-4a7f-9a40-db9a3594c2a4" name="Changes" comment="Vk2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tietokannat.md" beforeDir="false" afterPath="$PROJECT_DIR$/Tietokannat.md" afterDir="false" />
     </list>
@@ -21,6 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -106,7 +107,12 @@
       <updated>1725964788687</updated>
       <workItem from="1725964789759" duration="1352000" />
       <workItem from="1725966164610" duration="707000" />
-      <workItem from="1727189984233" duration="6036000" />
+      <workItem from="1727189984233" duration="8785000" />
+      <workItem from="1727267346616" duration="3332000" />
+      <workItem from="1727283377112" duration="2977000" />
+      <workItem from="1727334821470" duration="962000" />
+      <workItem from="1727431918901" duration="4009000" />
+      <workItem from="1727610581404" duration="378000" />
     </task>
     <task id="LOCAL-00001" summary="Tietokannat harjoitukset 1-2">
       <option name="closed" value="true" />
@@ -140,7 +146,23 @@
       <option name="project" value="LOCAL" />
       <updated>1725965898003</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Vk2">
+      <option name="closed" value="true" />
+      <created>1727196644612</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727196644612</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Vk2">
+      <option name="closed" value="true" />
+      <created>1727196731619</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727196731619</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,7 +181,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Tietokannat harjoitukset 1-2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tietokannat harjoitukset 1-2" />
+    <MESSAGE value="Vk2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Vk2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Tietokannat$Viiikko_2_tehtävät.coverage" NAME="Viiikko 2 tehtävät Coverage Results" MODIFIED="1727192153110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Viikko 2" />
